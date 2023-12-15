@@ -1,5 +1,5 @@
 # Dicoding-Front-End-Web-Developer-Path
-The token of the [Dicoding Front End Web courses](https://www.dicoding.com/learningpaths/22) gained by joined the [IDCamp 2023](https://idcamp.ioh.co.id/) established by Indosat Ooredoo Hutchison
+**The token of the [Dicoding Front End Web courses](https://www.dicoding.com/learningpaths/22) gained by joined the [IDCamp 2023](https://idcamp.ioh.co.id/) established by Indosat Ooredoo Hutchison**
 
 At the end of each course, students must complete the final project assignment, which requires developing websites that implement the course's learning material.
 
