@@ -1,4 +1,5 @@
-# Dicoding-Front-End-Web-Developer-Path
+<h1 align="center">Dicoding-Front-End-Web-Developer-Path</h1>
+
 **The token of the [Dicoding Front End Web courses](https://www.dicoding.com/learningpaths/22) gained by joined the [IDCamp 2023](https://idcamp.ioh.co.id/) established by Indosat Ooredoo Hutchison**
 
 At the end of each course, students must complete the final project assignment, which requires developing websites that implement the course's learning material.
@@ -18,7 +19,8 @@ At the end of each course, students must complete the final project assignment, 
 - [Simple Portfolio  Preview →](https://fiennaalya.github.io/Simple-Website-Dicoding-Submission/)
 - [Certificate of Completion →](https://www.dicoding.com/certificates/98XWVQ9WJPM3)
 
-## 🎯 Belajar Membuat Front-End Web untuk Pemula
+<h2 align="center">🎯 Belajar Membuat Front-End Web untuk Pemula</h2>
+
 [**_Belajar Membuat Front-End Web untuk Pemula_ Course**](https://www.dicoding.com/academies/315) explains the usage of JavaScript in depth so the website can be suitable for the industry standard. The student learns how to implement Browser Object Model (BOM) and Document Object Model (DOM) on the website. The implementation will create an interactivity on the HTML structure using Event. Lastly, students also learn how to save data on the Web Storage by introducing them to the API browser.
 
 ### 📌 Overview of the Bookshelf App Website
