@@ -1,4 +1,4 @@
-<h1 align="center">Dicoding-Front-End-Web-Developer-Path</h1>
+<h1 align="center">IDCamp 2023: Dicoding Front End Web Developer Path</h1>
 
 **The token of the [Dicoding Front End Web courses](https://www.dicoding.com/learningpaths/22) gained by joined the [IDCamp 2023](https://idcamp.ioh.co.id/) established by Indosat Ooredoo Hutchison**
 
